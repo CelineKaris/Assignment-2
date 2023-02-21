@@ -46,7 +46,7 @@ int main()
     //object of class computer
     Computer c;
     c.RAM = 8;
-    c.storage = 1000;
+    c.storage = 1500;
     c.turnOn();
 
     //object of class
