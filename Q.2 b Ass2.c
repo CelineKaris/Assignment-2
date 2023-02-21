@@ -42,5 +42,5 @@ public Person
         }
     };
     int main()
-    {Student("Tom",21,"university")
+    {Student("Darius",22,"university")
     }
